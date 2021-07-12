@@ -2,14 +2,14 @@
 
 Repository containing solution files for each of the 8 ROPE MIPS challenges.
 
-I use the `start.sh` to setup and manage a few components of the environment.
+I use the `start.sh` script to setup and manage a few components of the environment.
 
 
 ### Setting up a mipsel qemu guest
 
 Download precompiled components (kernel, disk) with `start.sh install`
 
-Start the qemu quest with `start.sh qemu`
+Start the qemu guest with `start.sh qemu`
 
 
 ### Getting ROPE mipsel challenges
